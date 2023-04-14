@@ -448,3 +448,10 @@ p img {
     width: 100%;
     border: 1px 1 #ddd;
 }
+#Code {
+    background-color: black;
+    width: auto;
+    hieght: auto;
+    margin-top: 10px;
+    float: left;
+}
