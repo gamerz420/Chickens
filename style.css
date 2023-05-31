@@ -1,0 +1,557 @@
+#header {
+    border-radius: 4px;
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#About {
+    border-radius: 4px;
+    background-color: cyan;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+h6 img {
+    width: 100px;
+    margin-left: 10px;
+}
+h1 {
+    font-size: 60px;
+    font-family: verdana;
+    position: absolute;
+    top: 6%;
+    left: 10%;
+    text-align: center;
+}
+h2 {
+    margin-left: 15px;
+    margin-top: 1px;
+    font-family: verdana;
+}
+#menu {
+    border-radius: 4px;
+    background-color: gray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#menu a {
+    margin: 10px;
+    color: gold;
+}
+h3 {
+    font-family: verdana;
+}
+h4 {
+    font-family: verdana;
+    margin: 10px;
+}
+h5 {
+    font-family: verdana;
+}
+h6 {
+    font-family: verdana;
+    font-size: 15px;
+}
+h1 em {
+    color: white;
+
+}
+p {
+    font-family: verdana;
+}
+h6 em {
+    float: right;
+}
+#ptag:hover {
+    cursor: pointer;
+}
+h4 a {
+    color: blue;
+}
+h5 a {
+    color: black;
+}
+#header2 {
+    border-radius: 4px;
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+    margin-top: 400px;
+}
+
+#header2 a {
+    color: blue;
+}
+#Chickens {
+    border-radius: 4px;
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Native {
+    border-radius: 4px;
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Silkie {
+    border-radius: 4px;
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+p img {
+    margin: 10px;
+    border-radius: 4px;
+}
+#video {
+    width:320px;
+    margin: 10px;
+}
+#Broilers {
+    border-radius: 4px;
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Brahma {
+    border-radius: 4px;
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Plymouth {
+    border-radius: 4px;
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sussex {
+    border-radius: 4px;
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ayam {
+    border-radius: 4px;
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ameraucana {
+    border-radius: 4px;
+    background-color: olivedrab;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Leghorn {
+    border-radius: 4px;
+    background-color: orchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ayam-C {
+    border-radius: 4px;
+    background-color: rosybrown;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Polish {
+    border-radius: 4px;
+    background-color: seagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Rhode {
+    border-radius: 4px;
+    background-color: crimson;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Indian {
+    border-radius: 4px;
+    background-color: mediumspringgreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Marans {
+    border-radius: 4px;
+    background-color: mediumorchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Orpington {
+    border-radius: 4px;
+    background-color: mediumslateblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Asil {
+    border-radius: 4px;
+    background-color: turquoise;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Shamo {
+    border-radius: 4px;
+    background-color: magenta;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Lohman {
+    border-radius: 4px;
+    background-color: maroon;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Araucana {
+    border-radius: 4px;
+    background-color: lawngreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Australorp {
+    border-radius: 4px;
+    background-color: lightslategray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Japneese {
+    border-radius: 4px;
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Cochin {
+    border-radius: 4px;
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Wyandotte {
+    border-radius: 4px;
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Jersey {
+    border-radius: 4px;
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Burmese {
+    border-radius: 4px;
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Kadaknath {
+    border-radius: 4px;
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#ISA {
+    border-radius: 4px;
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Padovana {
+    border-radius: 4px;
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Frizzle {
+    border-radius: 4px;
+    background-color: olivedrab;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Feral {
+    border-radius: 4px;
+    background-color: orchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Serama {
+    border-radius: 4px;
+    background-color: rosybrown;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Naked-N {
+    border-radius: 4px;
+    background-color: seagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Hamisphere {
+    border-radius: 4px;
+    background-color: crimson;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Fayoumi {
+    border-radius: 4px;
+    background-color: mediumspringgreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Dong {
+    border-radius: 4px;
+    background-color: mediumorchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Barnevelder {
+    border-radius: 4px;
+    background-color: mediumslateblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Amrock {
+    border-radius: 4px;
+    background-color: turquoise;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sundheimer {
+    border-radius: 4px;
+    background-color: magenta;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sulmtaler {
+    border-radius: 4px;
+    background-color: maroon;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sebright {
+    border-radius: 4px;
+    background-color: lawngreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Kuroiler {
+    border-radius: 4px;
+    background-color: lightslategray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Legbar {
+    border-radius: 4px;
+    background-color: cyan;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Vorwerk {
+    border-radius: 4px;
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Indian2 {
+    border-radius: 4px;
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Green {
+    border-radius: 4px;
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Hisex {
+    border-radius: 4px;
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Pekin {
+    border-radius: 4px;
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Faverolles {
+    border-radius: 4px;
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Swedish {
+    border-radius: 4px;
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Welsummer {
+    border-radius: 4px;
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Bielefelder {
+    border-radius: 4px;
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+@media screen and (max-width: 600px){
+    h6 img {
+        border-radius: 4px;
+        margin: 10px;
+        position: absolute;
+        top: 12%;
+        left: 2%;
+    }
+    h1 {
+        text-align: center;
+        font-size: 30px;
+        position: absolute;
+        top: 12%;
+        left: 32%;
+    }
+    #header {
+        border-radius: 4px;
+        background-color: goldenrod;
+        margin: 20px 0 20px 0;
+        height: 200px;
+        width: 100%;
+        border: 1px 1 #ddd;
+    }
+    h2 {
+        font-family: verdana;
+        font-size: x-large;
+    }
+    #menu a {
+        margin-bottom: 50px;
+        color: gold;
+    }
+    h6 {
+        font-family: verdana;
+        font-size: 12px;
+        text-align: center;
+    }
+    p img {
+        margin: 10px;
+        border-radius: 4px;
+        width: 320px;
+    }
+}
