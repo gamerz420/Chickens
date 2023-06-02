@@ -554,4 +554,48 @@ p img {
         border-radius: 4px;
         width: 320px;
     }
+    .T {
+        display: none;
+    }
+    .T2 {
+        display: none;
+    }
+}
+.T {
+    width: 400px;
+    border-radius: 20%;
+    position: absolute;
+    left: 40%;
+    top: 35%;
+}
+.T2 {
+    font-size: 60px;
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    transform: rotate(20deg);
+}
+.T2 em {
+    color: red;
+}
+#Likes {
+    border-radius: 4px;
+    background: linear-gradient(to right top, purple, blue, purple);
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Likes button {
+    margin-top: 15px;
+    height: 35px;
+    width: 150px;
+    border-radius: 6px;
+    cursor: pointer;
+    background: rgb(228, 15, 15);
+    margin: 10px;
+    margin-left: 5%;
+}
+#Likes h2 {
+    color: white;
 }
